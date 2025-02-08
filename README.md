@@ -5,4 +5,5 @@ essa landing-page foi proposta pela escola de tecnologia DNC, como um teste de c
 
 
 link do projeto no netlify:  https://desafio01-escola-dnc.netlify.app/
+
 link da planilha no sheet monkey: https://dashboard.sheetmonkey.io/edit/38eFXmyBGKwD9xmcfaPzjS
