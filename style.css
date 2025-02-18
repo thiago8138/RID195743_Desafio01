@@ -1,144 +1,125 @@
 *{
-    margin: 0px;
-    font-family: 'inter';
+   margin: 0px;
+   font-family: 'inter';
 
 
     
-    #menusuperior{
-        color: #FFFFFF;
-        background-color: #303030; 
-          padding-bottom: 70px;    
-        }
+  #menusuperior {
+      color: #FFFFFF;
+      background-color: #303030; 
+      padding-bottom:70px;    
+  }
 
-     #titulo-menu-superior{
+  #titulo-menu-superior {
     
-        color: #FFFFFF;
-        margin-left: 70px;
-        padding-top: 150px;
-        font-size: 60px;
-        }
+      color: #FFFFFF;
+      margin-left:70px;
+      padding-top:150px;
+      font-size:60px;
+  }
 
 
-    #texto-menu-superior{
-        margin-left: 75px;
-        margin-top: 15px;
-        padding-bottom: 50px;
-        font-size: 25px;
-       }
+  #texto-menu-superior {
+       margin-left:75px;
+       margin-top:15px;
+       padding-bottom:50px;
+       font-size:25px;
+  }
 
-        #menuinformacional{
-            background-color: #F9F9F9;
-            display: grid;
-            grid-auto-flow: column;
-            columns: auto;
-            display: flex;
-           padding-top: 100px;
-          padding-bottom: 50px;          
-            align-items: center;
-        }
+  #menuinformacional {
+       background-color: #F9F9F9;
+       display:grid;
+       grid-auto-flow:column;
+       columns:auto;
+       display:flex;
+       padding-top:100px;
+       padding-bottom:50px;          
+       align-items:center;
+  }
         
 
 
-        .numeroinformativo{
-            margin-top: -90px;
-         margin-left: 150px;
-         font-size: 40px;
-        }
+   .numeroinformativo {
+       margin-top:-90px;
+       margin-left:150px;
+       font-size:40px;
+  }
         
 
-        .textoinformativo{
-         margin-top: -40px;
-         margin-left: 150px;
-         font-size: 20px;
-         margin-right: 50px;
-        }
+    .textoinformativo {
+      margin-top:-40px;
+      margin-left:150px;
+      font-size:20px;
+      margin-right:50px;
+  }
            
            
         
 
-        #secaoimagem{
+     #secaoimagem {
+       margin:50px;  
+  }
 
-           margin:50px;  
-        }
-
-         #tituloimagem{
-            margin-top: 250px;
-            font-size: 35px;
-            font-weight: 500;
-           margin-left: 160px;
-         }
+     #tituloimagem {
+       margin-top: 250px;
+       font-size: 35px;
+       font-weight: 500;
+       margin-left: 160px;
+  }
          
-         #textoimagem{
-            font-weight: 300;
-            margin-top: 40px;
-            margin-left: 140px;
-            font-size: 24px; 
-         }
+     #textoimagem {
+       font-weight: 300;
+       margin-top: 40px;
+       margin-left: 140px;
+       font-size: 24px; 
+  }
 
 
-         #imagem{
-            align-items: center;
-           padding-bottom: 50px;
-            margin-left: 920px;
-            margin-top: -400px;                   
-         }
+     #imagem {
+       align-items: center;
+       padding-bottom: 50px;
+       margin-left: 920px;
+       margin-top: -400px;                   
+  }
 
-         #secaoformulario{
-            background-color: #303030;
-            padding: 80px;
-            text-align: center;
-         }
+     #secaoformulario {
+       background-color: #303030;
+       padding: 80px;
+       text-align: center;
+  }
 
-         #tituloformulario{
-           color: white;
-           margin-top: -20px;
-          margin-bottom: 40px;       
-         }
+     #tituloformulario {
+       color: white;
+       margin-top: -20px;
+       margin-bottom: 40px;       
+  }
 
-         input{
-          
-            margin-bottom: 40px;
-            width: 300px;
-            height: 45px;
-            border: 0px;
-            border-radius: 5px;
-            padding-left: 20px;
-         }
-
-
-         button{
-            width: 180px;
-            height: 45px;
-            border: 0px;
-            border-radius: 5px;
-            background-color: #C07212;
-            color: white;
-            font-weight: bolder;
-            cursor: pointer;
-         }
+     input {
+       margin-bottom: 40px;
+       width: 300px;
+       height: 45px;
+       border: 0px;
+       border-radius: 5px;
+       padding-left: 20px;
+  }
 
 
-         button:hover{
-            transform: translateY(-8px);
-
-         }
-
-
-
-
-
-
-
-
+      button {
+         width: 180px;
+         height: 45px;
+         border: 0px;
+         border-radius: 5px;
+         background-color: #C07212;
+         color: white;
+         font-weight: bolder;
+         cursor: pointer;
+  }
 
 
+      button:hover {
+         transform: translateY(-8px);
 
-
-
-
-
-
-
+  }
 
 
 }
